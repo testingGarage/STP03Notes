@@ -4,7 +4,9 @@ This repo contains my notes, interpretation and assignments from the classes of 
 
 The classes are conducted by Ashok Thiruvengadam. [^2]
 
-I have categorized notes for the session of that respective day.  
+I have categorized notes for the session of that respective day.
+
+A new branch will be created for committing and pushing the notes of the respective days.  From here, once I see the notes of the day is completed, I will move it to the main.  Refer to the branches for the notes if you don't find them yet on the main.
 
 I have retained and used the same the terms/words of Ashok in the notes that I have made.
 
