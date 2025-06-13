@@ -1,5 +1,17 @@
 # STP Notes
 
+## UPDATE
+- I have stopped adding the notes for second and subsequent days.
+ - The purpose of doing this is,
+    - This notes may build or give a perception and a perspective.
+    - But, when you attend these classes, it gives you the perspectives and perceptions
+    - It will help one to challenge one's thought
+
+**Hence, I have stopped adding the subsequent days notes here after Day 1.**
+ 
+
+ ## About the Repository
+
 This repo contains my notes, interpretation and assignments from the classes of doSmartQA/INDIVIDUAL **SmartQA Transformation Program (STP)**. [^1]  
 
 The classes are conducted by Ashok Thiruvengadam. [^2]
